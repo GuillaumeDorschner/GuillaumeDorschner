@@ -13,9 +13,10 @@
 - **MLOps/DevOps:** Involved in managing servers, a cluster, and working on MLOps and DevOps practices.
 - **Computer Vision:** Planning to explore this exciting area soon.
 
-### What I'm Learning
-- **Rust:** Delving into systems programming.
+### Future Learning Goals
+- **Rust:** I want to test this secure low-level language 🔒 to see if its high efficiency is truly justified.
 - **Machine Learning & Deep Learning:** Expanding my knowledge in AI.
+- **Quantum Computing:** Delving into the fundamentals.
 
 ### Professional Experience
 - **Apprenticeship at the Ministry of Defense:** Gained hands-on experience in server management, integrating Kubernetes into our operations, and enhancing MLOps and DevOps strategies.
