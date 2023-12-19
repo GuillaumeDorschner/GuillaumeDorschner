@@ -1,5 +1,3 @@
-# Guillaume Dorschner
-
 ## About Me
 
 <table border="0">
