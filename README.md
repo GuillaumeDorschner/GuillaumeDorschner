@@ -30,4 +30,4 @@
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/guillaume-dorschner/).
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e70528b128dce3cb6daf3e?variant=dark)](https://roadmap.sh)
+[//]: # "[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64e70528b128dce3cb6daf3e?variant=dark)](https://roadmap.sh)"
