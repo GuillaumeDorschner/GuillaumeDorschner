@@ -22,8 +22,8 @@
 - **Apprenticeship at the Ministry of Defense:** Gained hands-on experience in server management, integrating Kubernetes into our operations, and enhancing MLOps and DevOps strategies.
 
 ### Hobbies and Interests
-- **Muscu:** Passionate about weightlifting and staying fit.
-- **Snowboarding:** Love hitting the slopes whenever I get the chance.
+- **Muscu:** Passionate about breaking muscule.
+- **Snowboarding:** Whenever I get the chance 🏂.
 
 ### Philosophy
 "Technology is merely a tool in the pursuit of our goals, not the end itself."
