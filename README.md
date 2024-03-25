@@ -14,7 +14,7 @@
 - **Computer Vision:** Planning to explore this exciting area soon.
 
 ### Future Learning Goals
-- **Rust:** I want to test this secure low-level language 🔒 to see if its high efficiency is truly justified.
+- **Rust:** I want to test this secure low-level language to see if its high efficiency is truly justified.
 - **Machine Learning & Deep Learning:** Expanding my knowledge in AI.
 - **Quantum Computing:** Delving into the fundamentals.
 
@@ -22,8 +22,8 @@
 - **Apprenticeship at the Ministry of Defense:** Gained hands-on experience in server management, integrating Kubernetes into our operations, and enhancing MLOps and DevOps strategies.
 
 ### Hobbies and Interests
-- **Muscu:** Passionate about breaking muscule.
-- **Snowboarding:** Whenever I get the chance 🏂.
+- **GYM:** Passionate about breaking muscle.
+- **Snowboarding:** Whenever I get the chance.
 
 ### Philosophy
 "Technology is merely a tool in the pursuit of our goals, not the end itself."
