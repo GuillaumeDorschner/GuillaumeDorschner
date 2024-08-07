@@ -3,7 +3,7 @@
 <table border="0">
  <tr>
    <td><p>Hello! I'm a self-taught programmer with a passion for Kubernetes, Python, SvelteKit, and Docker. Currently, I'm an engineering student at ESILV in Paris, focusing on Cybersecurity, Cloud Computing, and related fields.</p></td>
-   <td><img src=https://github.com/GuillaumeDorschner/GuillaumeDorschner/assets/44686652/03e6d0f7-c6a3-43e7-8ede-902b251f6a48" alt="ESILV logo" width="250" style="align-self: center;"></td>
+   <td><img src="https://www.esilv.fr/ecole-ingenieur/logos/logo_esilv_png_couleur.png" width="100" style="align-self: center;"></td>
  </tr>
 </table>
 
