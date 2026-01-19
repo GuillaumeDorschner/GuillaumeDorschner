@@ -2,8 +2,10 @@
 
 <table border="0">
  <tr>
-   <td><p>Hello! I'm a self-taught programmer with a passion for Kubernetes, Python, SvelteKit, and Docker. Currently, I'm an engineering student at ESILV in Paris, focusing on Cybersecurity, Cloud Computing, and related fields.</p></td>
-   <td><img src="https://www.esilv.fr/ecole-ingenieur/logos/logo_esilv_png_couleur.png" width="100" style="align-self: center;"></td>
+   <td><p>Cloud & DevOps Engineer at Thales in Paris 🇫🇷, working on Linux-based infrastructures, Ansible automation, and Kubernetes platforms.
+    Focus areas include cloud computing, containerization, and Python SvelteKit and Rust.
+</p></td>
+   <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" width="100" style="align-self: center;"><img src="https://www.esilv.fr/ecole-ingenieur/logos/logo_esilv_png_couleur.png" width="60" style="align-self: center;"></td>
  </tr>
 </table>
 
