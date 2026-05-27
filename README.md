@@ -12,20 +12,19 @@
 ### Key Projects and Skills
 - **Kubernetes:** Developed and currently manage an offline, on-premise cluster from scratch at the Ministry of Defense.
 - **SvelteKit:** Developed web applications including a messaging app and a hackable site.
-- **MLOps/DevOps:** Involved in managing servers, a cluster, and working on MLOps and DevOps practices.
-- **Computer Vision:** Planning to explore this exciting area soon.
+- **DevOps:** Involved in managing servers, a cluster, and working on MLOps and DevOps practices.
 
 ### Future Learning Goals
-- **Rust:** I want to test this secure low-level language to see if its high efficiency is truly justified.
-- **Machine Learning & Deep Learning:** Expanding my knowledge in AI.
+- **Rust:** Exploring this secure low-level language to evaluate its performance and design advantages.
 - **Quantum Computing:** Delving into the fundamentals.
+- **Machine Learning & Deep Learning:** Expanding my knowledge in AI.
 
 ### Professional Experience
-- **Apprenticeship at the Ministry of Defense:** Gained hands-on experience in server management, integrating Kubernetes into our operations, and enhancing MLOps and DevOps strategies.
+- **Apprenticeship at the Ministry of Defense:** Gained hands-on experience in server management, Kubernetes integration, Ansible automation, and DevOps practices.
 
 ### Hobbies and Interests
 - **GYM:** Passionate about breaking muscle.
-- **Snowboarding:** Whenever I get the chance.
+- **Ski:** Whenever I get the chance.
 
 ### Philosophy
 "Technology is merely a tool in the pursuit of our goals, not the end itself."
